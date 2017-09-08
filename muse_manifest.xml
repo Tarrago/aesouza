@@ -1,0 +1,137 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aesouza.adv.br" resolutions="1x" timestamp="1504297138130">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_mestre.css" crc="3845180845" ref="áreas-de-atuações:index:contato:casos-de-sucesso:quem-somos"/>
+    <file name="_reas-de-atua__es.css" crc="119061905" ref="áreas-de-atuações"/>
+    <file name="iefonts__reas-de-atua__es.css" crc="415299418" ref="áreas-de-atuações"/>
+    <file name="index.css" crc="3865837038" ref="index"/>
+    <file name="iefonts_index.css" crc="227419067" ref="index"/>
+    <file name="contato.css" crc="4007117303" ref="contato"/>
+    <file name="iefonts_contato.css" crc="3776892079" ref="contato"/>
+    <file name="casos-de-sucesso.css" crc="86439234" ref="casos-de-sucesso"/>
+    <file name="quem-somos.css" crc="517382416" ref="quem-somos"/>
+    <file name="iefonts_quem-somos.css" crc="4193548181" ref="quem-somos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="webpro.js" crc="4143865194" ref="index:contato:casos-de-sucesso"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:casos-de-sucesso"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:casos-de-sucesso"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:casos-de-sucesso"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u9171.php" crc="66994451" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="require.js" crc="3951022091" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso"/>
+    <file name="form-u16729.php" crc="3928088051" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="mestre-favicon.ico" crc="194189353" ref="index"/>
+    <file name="logo2.png" crc="4229716189" seo="true" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="casos-de-sucesso" alt=""/>
+      <caption webpage="áreas-de-atuações" alt=""/>
+    </file>
+    <file name="dsc_7205.jpg" crc="338925996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc_7203.jpg" crc="373262757" seo="true" ref="index:casos-de-sucesso">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mesa_semfio.jpg" crc="530491864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto_semguardachuva.jpg" crc="4066844558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_7169.jpg" crc="4126366656" seo="true" ref="index:contato">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowleft1.png" crc="3822683094" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowright2.png" crc="54778211" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc_7201.jpg" crc="131278840" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="star.png" crc="123133490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mailicon.png" crc="3794460701" seo="true" ref="index:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="foneicon.png" crc="3938766825" seo="true" ref="index:contato">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="maps-u16900-fr.png" crc="207820964" ref="index"/>
+    <file name="local.png" crc="189580909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="4100327626" seo="true" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="casos-de-sucesso" alt=""/>
+      <caption webpage="áreas-de-atuações" alt=""/>
+    </file>
+    <file name="logoagenciadecoy2.png" crc="4067361869" seo="true" ref="index:contato:quem-somos:áreas-de-atuações:casos-de-sucesso">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contato" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="casos-de-sucesso" alt=""/>
+      <caption webpage="áreas-de-atuações" alt=""/>
+    </file>
+    <file name="localicon.png" crc="4121098384" seo="true" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="dsc_7208.jpg" crc="433882233" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="@_dsc9306.jpg" crc="483674678" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="_dsc9305.jpg" crc="169418807" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="mail.png" crc="4147150145" seo="true" ref="quem-somos">
+      <caption webpage="quem-somos" alt=""/>
+      <caption webpage="quem-somos" alt=""/>
+    </file>
+    <file name="dsc_7200.jpg" crc="235571358" ref="áreas-de-atuações">
+      <caption webpage="áreas-de-atuações" alt=""/>
+    </file>
+    <file name="dsc_72052.jpg" crc="222884034" ref="casos-de-sucesso">
+      <caption webpage="casos-de-sucesso" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4038619478" seo="true" mt="1504208897320" redirect="true"/>
+  <file name="contato.html" crc="3884602954" seo="true" mt="1471570004910" redirect="true"/>
+  <file name="quem-somos.html" crc="4010414323" seo="true" mt="1472505464065" redirect="true"/>
+  <file name="áreas-de-atuações.html" crc="534279679" seo="true" mt="1471638955582" redirect="true"/>
+  <file name="casos-de-sucesso.html" crc="3902679002" seo="true" mt="1471570004910" redirect="true"/>
+</manifest>
